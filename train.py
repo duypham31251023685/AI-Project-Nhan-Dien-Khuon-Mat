@@ -129,7 +129,7 @@ history = model.fit(
 # SAVE MODEL
 # =========================
 
-model.save("face_model.h5")
+model.save("best_model.keras")
 
 print("Train xong!")
 

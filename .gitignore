@@ -1,1 +1,3 @@
-*.h5
+data/
+attendance.csv
+__pycache__/
